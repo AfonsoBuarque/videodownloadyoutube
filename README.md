@@ -1,7 +1,3 @@
-Claro, vou fornecer um exemplo de descrição do projeto para o GitHub:
-
----
-
 # Baixador de Vídeos do YouTube em Python
 
 Um simples baixador de vídeos do YouTube com interface gráfica em Python, usando as bibliotecas `tkinter` e `pytube`.
